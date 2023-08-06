@@ -1,6 +1,6 @@
 
 
-public class Solution {
+public class DataType {
     public static int dataTypes(String type) {
         // Write your code here
         int ans=0;

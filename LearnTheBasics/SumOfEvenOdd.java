@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main {
+public class SumOfEvenOdd {
 	
 	public static void main(String[] args) {
 		// Write your code here

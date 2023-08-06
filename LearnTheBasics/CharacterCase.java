@@ -1,5 +1,5 @@
 import java.util.*;
-public class Solution {
+public class CharacterCase {
     
     public static void main(String[] args) {
         // Write your code here

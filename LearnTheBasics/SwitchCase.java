@@ -1,4 +1,4 @@
-public class Solution {
+public class SwitchCase {
     public static double areaSwitchCase(int ch, double []a) {
         // Write your code here
         double result=0;
