@@ -1,3 +1,4 @@
+package BasicHashing;
 import java.util.*;
 
 public class ArrayFrequency {
