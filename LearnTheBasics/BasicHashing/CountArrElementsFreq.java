@@ -4,10 +4,9 @@ import java.util.*;
 
 public class CountArrElementsFreq {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
         int[] arr = {10,5,10,15,10,5};
         int n = arr.length;
-        //countFrequency(arr,n);
+        countFrequency(arr,n);
         frequencyUsingMap(arr,n);
     }
     static void countFrequency(int[] arr, int n)
